@@ -1,0 +1,5 @@
+#!/bin/bash
+# Remote Shut Down
+
+ssh aspl@192.168.0.4
+sudo shutdown now -h
